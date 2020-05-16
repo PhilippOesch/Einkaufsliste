@@ -1,7 +1,21 @@
 # Lebenslauf
 ## Persönliche Daten
 
-+ Name: Peter Enis
-+ Alter: 30 Jahre
-+ Beruf: Dachdecker
-+ Hobbies: Schwimmen, Fahrradfahren, Basteln
++ **Name:** Peter Enis
++ **Alter:** 30 Jahre
++ **Beruf:** Informatiker, ~~IT-ler~~
++ **Hobbies:** Schwimmen, Fahrradfahren, Basteln
+
+## Berufserfahrung
+Jahr | Arbeitsgeber           
+:--- | :--- 
+2004 - 2012 | Google 
+2012 - 2016  | Facebook   
+seit 2016 | Netflix 
+
+## Sonstiges
+```javascript
+console.log("Mein Lebenslauf")
+```
+___
+Bei Rückfragen können sie mich über _peter@enis.de_ kontaktieren.

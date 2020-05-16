@@ -20,4 +20,4 @@ console.log("Mein Lebenslauf")
 ___
 Bei Rückfragen können Sie mich über _peter@enis.de_ kontaktieren.
 
-![Bild einer Person](m/PhilippOesch/Einkaufsliste/master/assets/beard-1845166_1920.jpg "Logo Title Text 1")
+![Bild einer Person](assets/beard-1845166_1920.jpg)

@@ -18,4 +18,4 @@ seit 2016 | Netflix
 console.log("Mein Lebenslauf")
 ```
 ___
-Bei Rückfragen können sie mich über _peter@enis.de_ kontaktieren.
+Bei Rückfragen können Sie mich über _peter@enis.de_ kontaktieren.
